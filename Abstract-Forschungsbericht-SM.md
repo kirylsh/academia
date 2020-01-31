@@ -1,22 +1,17 @@
-# Academic work related to diva.exchange
+# Abstract
 
-This project contains tasks and papers related to the work of academics.
+Dieser Forschungsbericht wird für das Unternehmen «Kopanyo AG» verfasst. Das Unternehmen entwickelt einen quelloffenen Software-Prototypen. Dieser Software-Prototyp soll gemäss Spezifikation ein vollständig dezentralisiertes, nicht-diskriminierendes und Privatsphäre-schützendes Handelsnetzwerk (diva.exchange) für digitale Werte abbilden. Das Ziel dieses Forschungsberichtes beinhaltet eine Marktanalyse sowie den Versuch die folgenden Hypothesen, welche durch den Software-Prototypen abgebildet werden, zu falsifizieren:
 
-# LICENSE
-It's a Creative Commons Attribution-Share-Alike 4.0 license, http://creativecommons.org/licenses/by-sa/4.0/
+*  *[H1] &emsp; - &emsp; mit einer steigenden Zahl von Netzwerkknoten reduziert sich die Ausfallwahrscheinlichkeit des gesamten Netzwerkes.*
 
-**You are free to:**
+*  *[H2] &emsp; - &emsp; eine steigende Zahl von Netzwerkknoten führt zu einer steigenden Transaktions-Kapazität des gesamten Netzwerkes.*
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+*  *[H3] &emsp; - &emsp; eine steigende Zahl von Netzwerkknoten erhöht die Resistenz gegen Brüche der Privatsphäre der Teilnehmer im Netzwerk.* 
 
-This license is acceptable for Free Cultural Works.
+*  *[H4] &emsp; - &emsp; eine steigende Blockhöhe beeinflusst das System und dessen Performanz nicht.* 
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+Um dieses Ziel zu erreichen werden deduktive sowie empirische Methoden in diesem Forschungsbericht angewendet. Das deduktive Vorgehen beinhaltet die Literaturrecherche und deren Ergebnisse. Daraus werden Herleitungen aufgestellt, welche für die Falsifikation der Hypothesen *[1]*, *[2]* und *[3]* verwendet werden. Das empirische Vorgehen wird für die Hypothese *[4]* durchgeführt und steht in einer Wechselwirkung mit der Weiterentwicklung des Software-Prototypen.
 
-**Under the following terms:**
+Die Hypothesen *[1]*, *[2]* und *[3]* konnten nicht falsifiziert werden. Diese Erkenntnis ist für das Projekt positiv. Die Auswertung und die Interpretation der Testdaten lassen die Annahme zu, dass das System ab einer gewissen Blockhöhe degradiert. Die Hypothese *[4]* wurde somit falsifiziert. Diese Erkenntnis sollte den Entwicklern der Blockchain mitgeteilt werden. Die Iroha-Blockchain ist ein neues Projekt, welches am 06.05.2019 publiziert wurde. Deswegen sind Fehler in dieser Phase vermutlich als nicht gravierend einzustufen. Für die Marktanalyse wurden zwei ähnliche Projekte untersucht, welche mit dem Auftraggeber abgestimmt wurden. Die Analyse hat gezeigt, dass diese Projekte Ähnlichkeiten aufweisen, sich jedoch in den wichtigsten Punkten (Anonymität, handelbare Kryptowährungen und eigener Kryptowährung) von diesem Projekt (diva.exchange) unterscheiden.
 
-* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-* No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
+Für das weitere Projektvorgehen und den Ausblick gilt es die Resistenz gegen Replay-Attacken zu beweisen. Zu Beginn des Projektes wurde entschieden, dass die Blockchain im öffentlichen Netzwerk (Clearnet) integriert wird, weil im Darknet die Performanz klar geschwächt wurde. Die Anonymisierungsschicht garantiert den Benutzern, dass Transaktionen nicht auf ihre Identität schliessen lassen. Das Schreiben auf die Blockchain wird von einer Stellvertreterfunktion durchgeführt, welche das Schreiben im Auftrag von einem Sender übernimmt. Durch diese Implementation entsteht die Gefahr, dass die Nachricht von einem Mittelsmann abgefangen und kopiert wird. Er könnte die Nachricht nach einer gewissen Zeit als Kopie abschicken und der Stellvertreter würde sie als korrekt erachten und somit erneut auf die Blockchain schreiben. Als Lösung wurden zwei Mechanismen implementiert. Die Nachricht wird durch einen Zeitstempel erweitert. Dadurch ist die Gültigkeit der Nachricht von der definierten Zeitspanne des Zeitstempels abhängig. Der zweite Mechanismus (Zustandsmechanismus/Deltamechanismus) erweitert die Nachricht um den Ist-Zustand der Datenbasis vom Sender, welcher dem Stellvertreter ebenfalls bekannt ist, weil er auf der öffentlichen Blockchain vorhanden ist. Durch das Signieren, das Hinzufügen eines Zeitstempels und der Datenbasis vom Sender sind Replay-Attacken vermutlich nicht möglich. Das muss jedoch überprüft und bewiesen werden.

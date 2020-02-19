@@ -4,7 +4,7 @@ This project contains tasks and papers related to the work of academics.
 
 | Title | Date | Type |  File   |
 | ------ | ------ | ------ | ------ |
-| Hochschlue Luzern, Antrag für ein Wirtschaftsprojekt: Positionierung der quelloffenen Softwarelösung "DIVA.EXCHANGE" im digitalen Raum | Feb-2020 | Research (PDF) |[Link](German-HSLU-Antrag-Wirtschaftsprojekt.pdf) |
+| Hochschule Luzern, Antrag für ein Wirtschaftsprojekt: Positionierung der quelloffenen Softwarelösung "DIVA.EXCHANGE" im digitalen Raum | Feb-2020 | Research (PDF) |[Link](German-HSLU-Antrag-Wirtschaftsprojekt.pdf) |
 | Untersuchung eines vollständig dezentralen, nicht-diskriminierenden und Privatsphäre-schützenden Handelsnetzwerk für digitale Werte (“Krypto-Anlagen”) | Jan-2020 |Abstract (MD) |[Link](Diva-Abstract-Forschungsbericht-SM.md) |
 | Untersuchung eines vollständig dezentralen, nicht-diskriminierenden und Privatsphäre-schützenden Handelsnetzwerk für digitale Werte (“Krypto-Anlagen”) | Jan-2020 |Research Paper (PDF) | [Link](Diva-Forschungsbericht-SM.pdf) |
 

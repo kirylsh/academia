@@ -4,6 +4,7 @@ This project contains tasks and papers related to the work of academics.
 
 | Title | Date | Type |  File   |
 | ------ | ------ | ------ | ------ |
+| Antrag zur Ausschreibung einer Bachelorarbeit oder Masterarbeit 2021: Untersuchung eines vollständig dezentralen, nicht-diskriminierenden und Privatsphäre-schützenden Handelsnetzwerk für digitale Werte (“Krypto-Anlagen”)| AUG-2020 | Research (PDF) |[Link](Antrag Ausschreibung Bachelorarbeit Masterarbeit 2020_2021.pdf) |
 | Hochschule Luzern, Antrag für eine Bachelorarbeit: Untersuchung eines vollständig dezentralen, nicht-diskriminierenden und Privatsphäre-schützenden Handelsnetzwerk für digitale Werte (“Krypto-Anlagen”)| Jun-2020 | Research (PDF) |[Link](HSLU-Antrag-Projektarbeit-Bachelor-HS2020.pdf) |
 | Hochschule Luzern, Antrag für ein Wirtschaftsprojekt: Positionierung der quelloffenen Softwarelösung "DIVA.EXCHANGE" im digitalen Raum | Jun-2020 | Research (PDF) |[Link](HSLU-Antrag-Wirtschaftsprojekt-HS2020.pdf) |
 | Untersuchung eines vollständig dezentralen, nicht-diskriminierenden und Privatsphäre-schützenden Handelsnetzwerk für digitale Werte (“Krypto-Anlagen”) | Jan-2020 |Abstract (MD) |[Link](Diva-Abstract-Forschungsbericht-SM.md) |

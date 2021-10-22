@@ -4,7 +4,14 @@ This project contains tasks and papers related to the work of academics.
 
 # DIVA.EXCHANGE regularly publishes ideas for student research proposals
 
-The latest proposals are here:
+## Latest published research
+
+| Title | Year | University |  Status   | File  |
+| ------ | ------ | ------ | ------ | ------ |
+| Teststand für ein vollständig verteiltes und Blockchain-basiertes Handelsnetzwerk für digitale Werte| 2021 | ZHAW Information Security - School of Engineering|paper published|https://codeberg.org/diva.exchange/academia/src/branch/main/research_studies/2021/BA-ZHAW-2021-blockchain-hyperledger-iroha/BA.pdf|
+| Untersuchung eines vollständig dezentralen, nicht-diskriminierenden und Privatsphäre-schützenden Handelsnetzwerk für digitale Werte (“Krypto-Anlagen”)| 2019/2020 | HSLU Hochschule Luzern - Informatik|paper published|https://codeberg.org/diva.exchange/academia/src/branch/main/research_studies/2020|
+
+## Latest research proposals
 
 | Title | Year | University |  Status   | File  |
 | ------ | ------ | ------ | ------ | ------ |
@@ -13,7 +20,7 @@ The latest proposals are here:
 | Teststand für ein dezentrales und Blockchain-basiertes Handelsnetzwerk für digitale Werte.| 2021 | HSLU Hochschule Luzern - Informatik |assigned with ZHAW|https://codeberg.org/diva.exchange/academia/src/branch/main/research_proposals/HSLU_2020_21_TESTSTAND_DIVA_BACHELOR_MASTER.pdf|
 | Untersuchung vom I2P-Netzwerk unter dem Gesichtspunkt der Performanz und der Verwendung der freien Banking-Technologie DIVA| 2021 | HSLU - Hochschule Luzern - Informatik |assigned|https://codeberg.org/diva.exchange/academia/src/branch/main/research_proposals/HSLU_2020_21_I2P_DIVA_BACHELOR_HSLU.pdf|
 | Community-Entwicklung rund um das freie, quelloffene Softwareprojekt DIVA.EXCHANGE| 2021 | HSLU Hochschule Luzern - Informatik  |open|https://codeberg.org/diva.exchange/academia/src/branch/main/research_proposals/HSLU_2020_21_COMMUNITY_DEVELOPMENT_DIVA_NPE_ODER_WP.pdf|
-| Untersuchung eines vollständig dezentralen, nicht-diskriminierenden und Privatsphäre-schützenden Handelsnetzwerk für digitale Werte (“Krypto-Anlagen”)| 2019/2020 | HSLU Hochschule Luzern - Informatik|paper published|https://codeberg.org/diva.exchange/academia/src/branch/main/research_studies/2020|
+
 
 # LICENSE
 It's a Creative Commons Attribution-Share-Alike 4.0 license, http://creativecommons.org/licenses/by-sa/4.0/

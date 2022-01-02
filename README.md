@@ -15,6 +15,7 @@ This project contains tasks and papers related to the work of academics.
 
 | Title | Year | University |  Status   | File  |
 | ------ | ------ | ------ | ------ | ------ |
+| De-Anonymisierung von Teilnehmern des vollständig verteilten, Blockchain-basierten Handelsnetzwerk für digitale Werte („DIVA.EXCHANGE“)| 2022|HSLU Hochschule Luzern - Informatik|assigned|https://codeberg.org/diva.exchange/academia/src/branch/main/research_proposals/HSLU_2021_22_DE-ANONYMISIERUNG-DIVA_BACHELOR_MASTER_HSLU_Antrag%20zur%20Ausschreibung%20einer%20studentischen%20Projektarbeit.pdf|
 | Teststand für ein dezentrales und Blockchain-basiertes Handelsnetzwerk für digitale Werte.| 2021 | ZHAW Information Security - School of Engineering |assigned|https://codeberg.org/diva.exchange/academia/src/branch/main/research_proposals/ZHAW_2020_21_TESTSTAND_DIVA_BACHELOR_MASTER.pdf|
 | Community-Entwicklung rund um das freie, quelloffene Softwareprojekt DIVA.EXCHANGE| 2021 | HWZ Hochschule für Wirtschaft Zürich  |assigned|https://codeberg.org/diva.exchange/academia/src/branch/main/research_proposals/HWZ_2020_21_COMMUNITY_DEVELOPMENT_DIVA_NPE.pdf|
 | Teststand für ein dezentrales und Blockchain-basiertes Handelsnetzwerk für digitale Werte.| 2021 | HSLU Hochschule Luzern - Informatik |assigned with ZHAW|https://codeberg.org/diva.exchange/academia/src/branch/main/research_proposals/HSLU_2020_21_TESTSTAND_DIVA_BACHELOR_MASTER.pdf|

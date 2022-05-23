@@ -8,8 +8,8 @@ This project contains tasks and papers related to the work of academics.
 
 | Title | Year | University |  Status   | File  |
 | ------ | ------ | ------ | ------ | ------ |
-|Entwicklung eines Konzeptes für die Weiterentwicklung der DIVA Community| 2021 | HWZ University of Applied Sciences in Business Administration Zurich|paper published|https://codeberg.org/diva.exchange/academia/src/branch/main/research_studies/2021/HWZ_study_results_community_canvas|
-| Teststand für ein vollständig verteiltes und Blockchain-basiertes Handelsnetzwerk für digitale Werte| 2021 | ZHAW Information Security - School of Engineering|result published|https://codeberg.org/diva.exchange/academia/src/branch/main/research_studies/2021/BA-ZHAW-2021-blockchain-hyperledger-iroha/BA.pdf|
+|Entwicklung eines Konzeptes für die Weiterentwicklung der DIVA Community| 2021 | HWZ University of Applied Sciences in Business Administration Zurich|results published|https://codeberg.org/diva.exchange/academia/src/branch/main/research_studies/2021/HWZ_study_results_community_canvas|
+| Teststand für ein vollständig verteiltes und Blockchain-basiertes Handelsnetzwerk für digitale Werte| 2021 | ZHAW Information Security - School of Engineering|paper published|https://codeberg.org/diva.exchange/academia/src/branch/main/research_studies/2021/BA-ZHAW-2021-blockchain-hyperledger-iroha/BA.pdf|
 | Untersuchung eines vollständig dezentralen, nicht-diskriminierenden und Privatsphäre-schützenden Handelsnetzwerk für digitale Werte (“Krypto-Anlagen”)| 2019/2020 | HSLU Hochschule Luzern - Informatik|paper published|https://codeberg.org/diva.exchange/academia/src/branch/main/research_studies/2020|
 
 ## Latest research proposals

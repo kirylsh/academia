@@ -1,5 +1,8 @@
 # Topics: New Articles
-
+Security in the work with crypto exchanges
+Best Security Practices in Crypto Exchanges. Diva’s Experience.
+- Guarantees of safety of investors' finances
+Global trends in the security of financial investors and the development of Diva
 _Instructions: add new topic suggestions on top, same format as the very first topic at the bottom._
 
 ## 11-Nov-2022 Latest Developments at DIVA

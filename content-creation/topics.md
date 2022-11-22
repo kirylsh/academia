@@ -1,6 +1,7 @@
 # Topics: New Articles
 
 _Instructions: add new topic suggestions on top, same format as the very first topic at the bottom._
+[Draft 11.22.2022.docx](https://github.com/kirylsh/academia/files/10068077/Draft.11.22.2022.docx)
 
 ## 11-Nov-2022 Latest Developments at DIVA
 Recurring (half yearly?) article of the DIVA development and the outlook. What's new, what has changed,

@@ -1,3 +1,4 @@
+[Content Plan 2022.xlsx](https://github.com/kirylsh/academia/files/10085433/Content.Plan.2022.xlsx)
 # Topics: New Articles
 
 _Instructions: add new topic suggestions on top, same format as the very first topic at the bottom._
